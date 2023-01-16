@@ -1,1 +1,13 @@
 # Paste the output from a sample run here.
+ Today you will be doing bench press of 12 reps   
+ please enter the weights for your sets.
+Enter weight for first set 4
+Enter weight for second set 3
+Enter weight for third set 2
+Total weight lifted today:  108
+Average Weight lifted per set:  36
+The lease weight lifted in a set:  24
+The most weight lifted in a set:  48
+The Range of the sets is:  24
+Your first set 48 Was greater than your last set 24
+ You need to work harder!
